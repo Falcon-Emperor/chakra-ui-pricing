@@ -11,7 +11,7 @@ export default function Header() {
       color="white"
     >
       <Heading mb={"10px"}>
-        Usman's First UI created with Chakra-Next.JS
+        Usman Nasim First UI created with Chakra-Next.JS
       </Heading>
       <Text>Plans that are carefully crafted to suit your business.</Text>
     </Box>
